@@ -1,0 +1,45 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts.test_allure",
+    "children" : [ {
+      "name" : "test_login",
+      "uid" : "f2578a23dd8501e0",
+      "parentUid" : "32487b23d33b69ba38e688c166bf4815",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591947766924,
+        "stop" : 1591947766951,
+        "duration" : 27
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_login2",
+      "uid" : "499dbe50ca5ef3c5",
+      "parentUid" : "32487b23d33b69ba38e688c166bf4815",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591947766958,
+        "stop" : 1591947766958,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_login3",
+      "uid" : "98c1869e9c8f59b8",
+      "parentUid" : "32487b23d33b69ba38e688c166bf4815",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591947766962,
+        "stop" : 1591947766963,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "scripts.test_allure"
+  } ]
+}

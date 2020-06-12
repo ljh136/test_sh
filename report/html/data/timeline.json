@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-30UQ11D",
+    "children" : [ {
+      "name" : "9876-MainThread",
+      "children" : [ {
+        "name" : "test_login",
+        "uid" : "f2578a23dd8501e0",
+        "parentUid" : "df80cdaff69ac5c16376d7046afdadce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591947766924,
+          "stop" : 1591947766951,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login3",
+        "uid" : "98c1869e9c8f59b8",
+        "parentUid" : "df80cdaff69ac5c16376d7046afdadce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591947766962,
+          "stop" : 1591947766963,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login2",
+        "uid" : "499dbe50ca5ef3c5",
+        "parentUid" : "df80cdaff69ac5c16376d7046afdadce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591947766958,
+          "stop" : 1591947766958,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "df80cdaff69ac5c16376d7046afdadce"
+    } ],
+    "uid" : "d3fc8bf6b49564860f300249cd099aec"
+  } ]
+}

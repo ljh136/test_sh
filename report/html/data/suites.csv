@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.test_allure.test_Allure#test_login","27",""
+"passed","scripts.test_allure.test_Allure#test_login3","1",""
+"passed","scripts.test_allure.test_Allure#test_login2","0",""

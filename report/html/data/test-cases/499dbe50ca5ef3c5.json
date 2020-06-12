@@ -1,0 +1,80 @@
+{
+  "uid" : "499dbe50ca5ef3c5",
+  "name" : "test_login2",
+  "fullName" : "scripts.test_allure.test_Allure#test_login2",
+  "historyId" : "82aa24c020a982453a32f594a83e49dc",
+  "time" : {
+    "start" : 1591947766958,
+    "stop" : 1591947766958,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "用户名测试脚本",
+      "time" : {
+        "start" : 1591947766958,
+        "stop" : 1591947766958,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure"
+  }, {
+    "name" : "subSuite",
+    "value" : "test_Allure"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-30UQ11D"
+  }, {
+    "name" : "thread",
+    "value" : "9876-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "499dbe50ca5ef3c5.json",
+  "parameterValues" : [ ]
+}
