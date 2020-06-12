@@ -36,9 +36,9 @@ class test_Allure:
     #     allure.attach('登录', '登录测试的描述')
     #     print("点击登录")
 
-    # def test_login2(self):
-    #     print("222222")
-    #
+    def test_login4(self):
+        print("222222")
+    
     # def test_login3(self):
     #     print("333333")
     #
