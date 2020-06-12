@@ -24,7 +24,7 @@ class test_Allure:
     @allure.step(title="用户名测试脚本")
     def test_login3(self):
 
-       assert 1
+       assert 0
 
  #11
         # @allure.step(title="密码测试脚本")
