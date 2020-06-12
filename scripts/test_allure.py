@@ -12,7 +12,7 @@ class test_Allure:
         allure.attach('登录', '登录测试的描述')
         print("点击登录")
 
-        assert 0
+        assert 1
 
     # @pytest.allure.severity(pytest.allure.severity_level.BLOCKER)
     @allure.step(title="用户名测试脚本")
