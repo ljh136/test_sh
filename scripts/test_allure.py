@@ -18,7 +18,7 @@ class test_Allure:
     @allure.step(title="用户名测试脚本")
     def test_login2(self):
 
-       assert 0
+       assert 1
 
     # @pytest.allure.severity(pytest.allure.severity_level.NORMAL)
     @allure.step(title="用户名测试脚本")
@@ -26,6 +26,7 @@ class test_Allure:
 
        assert 1
 
+ #11
         # @allure.step(title="密码测试脚本")
     # def test_login2(self):
     #     allure.attach('密码', '密码测试的描述')
