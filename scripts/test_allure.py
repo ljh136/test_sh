@@ -15,16 +15,16 @@ class test_Allure:
         assert 1
 
     #@pytest.allure.severity(pytest.allure.severity_level.BLOCKER)
-    @allure.step(title="用户名测试脚本")
-    def test_login2(self):
+    #@allure.step(title="用户名测试脚本")
+    #def test_login2(self):
 
-        assert 1
+    #    assert 1
 
     # @pytest.allure.severity(pytest.allure.severity_level.NORMAL)
-    @allure.step(title="用户名测试脚本")
-    def test_login3(self):
+    #@allure.step(title="用户名测试脚本")
+    #def test_login3(self):
 
-        assert 1
+    #    assert 1
 
         # @allure.step(title="密码测试脚本")
     # def test_login2(self):
